@@ -1,0 +1,58 @@
+
+
+.homePage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background: linear-gradient(to right, #0e4163, #8e44ad);
+    background-size: cover;
+    background-position: center;
+    padding-top: 15vh;
+  }
+
+  .card {
+    width: 31rem;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.topSurface {
+    display: flex;
+    height: 10rem;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem
+    }
+
+.bottomSurface {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 4rem; 
+    gap: 3.3rem;
+    }
+
+    .cardLists {
+        display: flex;
+        flex-direction: column;
+    }
+
+ .selectProps {
+    display: flex;
+    flex-direction: column;
+ } 
+
+.biji {
+    min-height: 10vh;
+    background: linear-gradient(to right, #266a96, #8e44ad);
+}
+
+
+
+.EEtButton {
+    display: flex;
+    justify-content:space-around;
+}

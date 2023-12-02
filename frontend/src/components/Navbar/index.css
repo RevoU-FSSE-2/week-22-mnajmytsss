@@ -1,0 +1,25 @@
+.logo {
+    height: 60px;
+    margin: 15px
+}
+
+.gradient-line {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(to right, transparent, transparent);
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .features-gradient {
+    background: linear-gradient(to right, #0e4163, #8e44ad);
+  }
+  
+  .solutions-gradient {
+    background: linear-gradient(to right, #0e4163, #8e44ad);
+  }
+  
+  .plans-gradient {
+    background: linear-gradient(to right, #0e4163, #8e44ad);
+  }
+  
